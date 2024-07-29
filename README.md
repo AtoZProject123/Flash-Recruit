@@ -1,2 +1,2 @@
 # Flash-Recruit
-HR recruitment program to ease HR staff
+Flash Recruit is an all encompassing solution for businesses that are interested in automating their HR department
